@@ -29,7 +29,7 @@
                 <p id="expert"></p>
             </p>
         </div>
-        <div class="lives">LIVES:</div>
+        <div class="lives">LIVES: </div>
         <div id="hints" class="hints">HINTS:</div>
         <div class="clock">TIME: 0</div>
         <button id="hint-btn" class="btn" onclick="giveHint(this)">Give me a hint!</button>
